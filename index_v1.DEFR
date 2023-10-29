@@ -60,22 +60,22 @@
 </head>
 <body>
     <header>
-        <img src="https://static.vecteezy.com/system/resources/previews/009/408/676/non_2x/light-bulb-transparent-free-png.png" alt="Lightbulb Icon" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/wicorn29/AndroidTips/main/bigbrain_icon.png" alt="Lightbulb Icon" width="50" height="50">
         <h1>DevTips: Android</h1>
     </header>
     <main>
         <div class="tip">
-            <img class="lightbulb" src="https://static.vecteezy.com/system/resources/previews/009/408/676/non_2x/light-bulb-transparent-free-png.png" alt="Lightbulb Icon" width="50" height="50">
+            <img class="lightbulb" src="https://raw.githubusercontent.com/wicorn29/AndroidTips/main/bigbrain_icon.png" alt="Lightbulb Icon" width="50" height="50">
             <h2>Notice: Welcome</h2>
             <p>This is a test of a tip for the tips app for android... I hope you enjoy!</p>
         </div>
         <div class="tip">
-            <img class="lightbulb" src="https://static.vecteezy.com/system/resources/previews/009/408/676/non_2x/light-bulb-transparent-free-png.png" alt="Lightbulb Icon" width="50" height="50">
+            <img class="lightbulb" src="https://raw.githubusercontent.com/wicorn29/AndroidTips/main/bigbrain_icon.png" alt="Lightbulb Icon" width="50" height="50">
             <h2>Tip 1: iOS Shortcuts</h2>
             <p>Save time with iOS shortcuts by automating repetitive tasks.</p>
         </div>
         <div class="tip">
-            <img class="lightbulb" src="https://static.vecteezy.com/system/resources/previews/009/408/676/non_2x/light-bulb-transparent-free-png.png" alt="Lightbulb Icon" width="50" height="50">
+            <img class="lightbulb" src="https://raw.githubusercontent.com/wicorn29/AndroidTips/main/bigbrain_icon.png" alt="Lightbulb Icon" width="50" height="50">
             <h2>Tip 2: Google Assistant</h2>
             <p>ahh yes, Google assistant. the thing you forgot about 10 years ago. Whelp, its still on your phone and ready to be used!</p>
         </div>
